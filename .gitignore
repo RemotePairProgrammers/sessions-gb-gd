@@ -26,3 +26,14 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+# Generated folders
+dist
+
+# Temporary directories
+.c9
+.tmp
+.sass-cache
+
+# Bower components
+bower_components
